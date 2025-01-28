@@ -1,0 +1,1 @@
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(function(){const t=this.getElementById("app");t&&(t.textContent="Welcome to my page")}))})();
