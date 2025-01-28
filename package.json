@@ -1,0 +1,19 @@
+{
+  "name": "group-3-webpack-project-tt4",
+  "version": "1.0.0",
+  "description": "Activity 4: Feedback Page\r Objective: Create a page where users can submit feedback about a service.\r Description:\r Create a feedback.html file with a form that includes:\r Name field\r Email field\r Rating field (1 to 5)\r Text box for comments\r Use SCSS to style the form responsively.\r In the feedback.js file, add a submission event that validates the required fields and displays a thank-you message.\r Directories:\r HTML: feedback.html\r SCSS: feedback.scss\r JS: feedback.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres94b/Group-3-Webpack-Project-TT4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andres94b/Group-3-Webpack-Project-TT4/issues"
+  },
+  "homepage": "https://github.com/Andres94b/Group-3-Webpack-Project-TT4#readme"
+}
