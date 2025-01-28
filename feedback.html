@@ -6,6 +6,27 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="feedback.html">Feedback</a>
+    </nav>
+    <div id="feedback">
+        <form action="" id="feedbackForm">
+            <label for="name">Name:</label>
+            <input type="text" name="name" id="name">
+
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email">
+
+            <label for="subject">Subject:</label>
+            <input type="text" name="subject" id="subject">
+
+            <label for="message">Message</label>
+            <textarea name="message" id="message"></textarea>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+    <script src="dist/feedback.js"></script>
 </body>
 </html>
