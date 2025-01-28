@@ -1,0 +1,19 @@
+body{
+    font-family:sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: $navBackground;
+    padding: 3rem;
+    display: flex;
+
+    a{
+        color: white;
+        text-decoration: none;
+
+        &:hover{
+            text-decoration: wavy;
+        }
+    }
+}
